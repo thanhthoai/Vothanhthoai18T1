@@ -1,0 +1,16 @@
+D:\Kì 2(3)\TH C#\VoThanhThoai\ModelsEF\bin\Debug\ModelsEF.dll.config
+D:\Kì 2(3)\TH C#\VoThanhThoai\ModelsEF\bin\Debug\ModelsEF.dll
+D:\Kì 2(3)\TH C#\VoThanhThoai\ModelsEF\bin\Debug\ModelsEF.pdb
+D:\Kì 2(3)\TH C#\VoThanhThoai\ModelsEF\bin\Debug\EntityFramework.dll
+D:\Kì 2(3)\TH C#\VoThanhThoai\ModelsEF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Kì 2(3)\TH C#\VoThanhThoai\ModelsEF\bin\Debug\EntityFramework.xml
+D:\Kì 2(3)\TH C#\VoThanhThoai\ModelsEF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Kì 2(3)\TH C#\VoThanhThoai\ModelsEF\obj\Debug\ModelsEF.csproj.CoreCompileInputs.cache
+D:\Kì 2(3)\TH C#\VoThanhThoai\ModelsEF\obj\Debug\ModelsEF.csproj.CopyComplete
+D:\Kì 2(3)\TH C#\VoThanhThoai\ModelsEF\obj\Debug\ModelsEF.dll
+D:\Kì 2(3)\TH C#\VoThanhThoai\ModelsEF\obj\Debug\ModelsEF.pdb
+D:\Kì 2(3)\TH C#\VoThanhThoai\ModelsEF\obj\Debug\ModelsEF.csprojAssemblyReference.cache
+D:\Kì 2(3)\TH C#\VoThanhThoai\ModelsEF\bin\Debug\PagedList.dll
+D:\Kì 2(3)\TH C#\VoThanhThoai\ModelsEF\bin\Debug\PagedList.Mvc.dll
+D:\Kì 2(3)\TH C#\VoThanhThoai\ModelsEF\bin\Debug\PagedList.xml
+D:\Kì 2(3)\TH C#\VoThanhThoai\ModelsEF\bin\Debug\PagedList.Mvc.xml
